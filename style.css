@@ -1,0 +1,25 @@
+/* Your custom CSS styles */
+
+.container {
+    margin: 20px;
+  }
+  
+  .product-list {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .product {
+    text-align: center;
+  }
+  
+  .product img {
+    width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+  
